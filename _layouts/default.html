@@ -3,19 +3,31 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-{% seo %}
-
+    <link rel="icon" href="/chirhoicon.png" type="image/png">
     <!--link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"-->
     <meta name="viewport" content="width=device-width">
+    <title>{{ site.title}} : {{ page.title }}</title>
   </head>
   <body>
     <div class="wrapper">
-      <section>
+      <header>
+	      <!--<h1>XPIAN.info: XPistIANos/ΧΡιστΙΑΝος/Christian</h1>-->
+	      <h1><u>XPIAN</u>.info: <u>XP</u>IST<u>IAN</u>OS/<u>ΧΡ</u>ΙΣΤ<u>ΙΑΝ</u>ΟΣ/<u>Chr</u>ist<u>ian</u></h1>
+
+	      <p>Encouraging people to put Christ (Greek: <b>XP</b>ISTOS/<b>ΧΡ</b>ΙΣΤΟΣ) back in Christian (Greek: <b>XP</b>IST<b>IAN</b>OS/<b>ΧΡ</b>ΙΣΤ<b>ΙΑΝ</b>ΟΣ) and to take wealth seeking, comfort seeking, violence, adultery and a whole lot of other evil things back out.<br />
+	      <hr>
+	      <a href="/index.html">home</a> | <a href="/contact.html">contact</a> | <a href="http://early.xpian.info/">Early Christian Sources project</a><br>
+	      <hr>
+	      </p>
+	      
+      </header>
+
+      <section id="main-content">
 
       {{ content }}
 
       </section>
+      <hr>
     </div>
   </body>
 </html>
