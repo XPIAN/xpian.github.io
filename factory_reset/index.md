@@ -21,3 +21,4 @@ CONTACT: tommyalbinholmes@gmail.com / 207.749.1442
 * [Episode 3: Salvation part 2 --- The "Jesus Glasses"](episode_3.html)
 * [Episode 4: Law of Messiah --- Something's very wrong, and many of us know it...](episode_4.html)
 * [Episode 5: Law of Messiah --- Are you ready for some football?](episode_5.html)
+* [Episode 6: Law of Messiah --- Construction is now complete](episode_6.html)
