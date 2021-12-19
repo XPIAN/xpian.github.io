@@ -1,5 +1,5 @@
 ---
-title: Factory Reset
+title: Factory Reset podcast
 ---
 
 # Factory Reset podcast
@@ -12,7 +12,7 @@ Christianity has generally evolved into something irreconcilable with the moveme
 
 Let's recover the message that went out from Jerusalem in the first century.
 
-CONTACT: tommyalbinholmes@gmail.com / 207.749.1442
+CONTACT: <tommyalbinholmes@gmail.com> / 207.749.1442
 
 ## Episodes:
 
@@ -22,3 +22,4 @@ CONTACT: tommyalbinholmes@gmail.com / 207.749.1442
 * [Episode 4: Law of Messiah --- Something's very wrong, and many of us know it...](episode_4.html)
 * [Episode 5: Law of Messiah --- Are you ready for some football?](episode_5.html)
 * [Episode 6: Law of Messiah --- Construction is now complete](episode_6.html)
+* [Episode 7: Law of Messiah - God's righteousness and why I left Intervarsity Christian Fellowship](episode_7.html)
