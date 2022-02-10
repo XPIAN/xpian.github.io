@@ -2,7 +2,7 @@
 title: Factory Reset --- Episode 7
 ---
 
-# Factory Reset Episode 7: Law of Messiah - God's righteousness and why I left Intervarsity Christian Fellowship
+# Factory Reset Episode 7: Law of Messiah --- God's righteousness and why I left Intervarsity Christian Fellowship
 
 Paul is not saying what many of us think he's saying in Romans 10:1-4. 
 
