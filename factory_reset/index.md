@@ -24,3 +24,5 @@ CONTACT: <tommyalbinholmes@gmail.com> / 207.749.1442
 * [Episode 5: Law of Messiah --- Are you ready for some football?](episode_5.html)
 * [Episode 6: Law of Messiah --- Construction is now complete](episode_6.html)
 * [Episode 7: Law of Messiah --- God's righteousness and why I left Intervarsity Christian Fellowship](episode_7.html)
+* [Episode 8: Law of Messiah --- Seven Defense Mechanisms We Must Toss Out](episode_8.html)
+* [Episode 9: Greed & Wealth --- Are We Wasting the Master's Possessions?](episodse_9.html) 
