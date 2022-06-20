@@ -8,5 +8,5 @@ Paul is not saying what many of us think he's saying in Romans 10:1-4.
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_7.mp3) ~22 MB
-* [AAC/M4A](factory_reset_episode_7.m4a) ~61 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_7.mp3) ~22 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_7.m4a) ~61 MB

@@ -10,5 +10,5 @@ No. That is not what Jesus meant. Please consider what you'll hear in this episo
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_6.mp3) ~15 MB
-* [AAC/M4A](factory_reset_episode_6.m4a) ~41 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_6.mp3) ~15 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_6.m4a) ~41 MB

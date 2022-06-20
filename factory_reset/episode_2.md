@@ -12,5 +12,5 @@ May God help us put aside the Protestant salvation message and recover the teach
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_2.mp3) ~15 MB
-* [AAC/M4A](factory_reset_episode_2.m4a) ~40 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_2.mp3) ~15 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_2.m4a) ~40 MB

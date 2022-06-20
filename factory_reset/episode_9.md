@@ -8,5 +8,5 @@ Jesus urges us to use the resources we have in the right way --- to help others 
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_9.mp3) ~21 MB
-* [AAC/M4A](factory_reset_episode_9.m4a) ~58 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_9.mp3) ~21 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_9.m4a) ~58 MB

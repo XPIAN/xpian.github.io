@@ -10,5 +10,5 @@ May God help us to recover the true heart of the gospel and the implications for
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_5.mp3) ~13 MB
-* [AAC/M4A](factory_reset_episode_5.m4a) ~36 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_5.mp3) ~13 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_5.m4a) ~36 MB

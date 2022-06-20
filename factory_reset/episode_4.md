@@ -12,5 +12,5 @@ Please listen with an open mind. Let's rediscover the royal law that went out fr
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_4.mp3) ~20 MB
-* [AAC/M4A](factory_reset_episode_4.m4a) ~54 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_4.mp3) ~20 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_4.m4a) ~54 MB

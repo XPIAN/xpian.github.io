@@ -8,5 +8,5 @@ Jesus says not to resist evildoers. Does he mean not to resist ONLY if someone p
 
 Download podcast audio file:
 
-* [MP3](http://files.xpian.info/factory_reset_episode_19.mp3) ~ MB
-* [AAC/M4A](http://files.xpian.info/factory_reset_episode_19.m4a) ~20 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_19.mp3) ~16 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_19.m4a) ~43 MB

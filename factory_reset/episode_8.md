@@ -8,5 +8,5 @@ If we are going to follow Jesus like the scriptures say to, we need to let down 
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_8.mp3) ~14 MB
-* [AAC/M4A](factory_reset_episode_8.m4a) ~69 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_8.mp3) ~14 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_8.m4a) ~69 MB

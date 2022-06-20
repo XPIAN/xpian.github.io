@@ -12,5 +12,5 @@ Please listen with an open mind.
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_3.mp3) ~19 MB
-* [AAC/M4A](factory_reset_episode_3.m4a) ~52 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_3.mp3) ~19 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_3.m4a) ~52 MB

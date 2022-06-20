@@ -12,5 +12,5 @@ Are we ready to pick up a cross of our own and walk the path Jesus carved out fo
 
 Download podcast audio file:
 
-* [MP3](factory_reset_episode_1.mp3) ~15 MB
-* [AAC/M4A](factory_reset_episode_1.m4a) ~42 MB
+* [MP3](http://files.xpian.info/factory_reset_episode_1.mp3) ~15 MB
+* [AAC/M4A](http://files.xpian.info/factory_reset_episode_1.m4a) ~42 MB
