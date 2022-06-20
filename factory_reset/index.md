@@ -32,3 +32,7 @@ CONTACT: <tommyalbinholmes@gmail.com> / 207.749.1442
 * [Episode 13: Sheep Among Wolves --- Atomic Bombs for the Kingdom of God](episode_13.html)
 * [Episode 14: Sheep Among Wolves --- The Example of the Lamb](episode_14.html)
 * [Episode 15: Sheep Among Wolves --- Jesus Gets Violent in the Temple, Sort of](episode_15.html)
+* [Episode 16: Sheep Among Wolves --- Principles of the Sheep Life](episode_16.html)
+* [Episode 17: Sheep Among Wolves --- Two Important Observations](episode_17.html)
+* [Episode 18: Sheep Among Wolves --- You've Lost That Loving Action](episode_18.html)
+* [Episode 19: Sheep Among Wolves --- Are we humble students or clever lawyers?](episode_19.html)
