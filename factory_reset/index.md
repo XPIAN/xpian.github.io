@@ -12,7 +12,7 @@ Christianity has generally evolved into something irreconcilable with the moveme
 
 Let's recover the message that went out from Jerusalem in the first century.
 
-CONTACT: <tommyalbinholmes@gmail.com> / 207.749.1442
+CONTACT: <tommyalbinholmes@gmail.com> / +1.207.749.1442
 
 ## Episodes:
 
