@@ -444,34 +444,34 @@ god) and one from the supreme God.
 > now turn back to proselytes. You ask who they are from among the
 > gentiles, that are passing over to the Creator, when those
 > specifically mentioned by the prophet are proselytes, of a different
-> condition, separate, by themselves: *Behold, *Isaiah says, *proselytes
-> by me shall come near unto thee, *showing that even proselytes were to
+> condition, separate, by themselves: *Behold*, Isaiah says, *proselytes
+> by me shall come near unto thee*, showing that even proselytes were to
 > come to God through Christ. Also the gentiles, which we are, likewise
 > had their own mention, as people that were hoping in Christ: *And in
-> his name, *he says, *shall the gentiles hope.*^*\ *^Proselytes
+> his name*, he says, *shall the gentiles hope.* Proselytes
 > however, whom you interpolate into the prophecy concerning the
 > gentiles, do not as a rule hope in Christ's name, but in Moses' law,
 > from which their instruction comes: whereas the promotion of the
 > gentiles has come about in these last days. In those very words Isaiah
 > says, *And it shall come to pass in the last days that the mountain of
-> the Lord shall be manifest, *namely, the majesty of God, *and the
-> temple of God above the top of the mountains, *meaning Christ, the
+> the Lord shall be manifest*, namely, the majesty of God, *and the
+> temple of God above the top of the mountains*, meaning Christ, the
 > catholic temple of God, in whom God is worshipped, established above
 > all the eminences of virtues and powers: *and all the nations shall
 > come to it, and many shall go and say, Come ye, let us go up into the
 > mountain of the Lord, and into the house of the God of Jacob, and he
 > will announce to us his way, and we will walk in it: for out of Sion
-> shall go forth a law, and the word of the Lord out of Jerusalem. *This
+> shall go forth a law, and the word of the Lord out of Jerusalem*. This
 > way must be the gospel of the new law, and of the new word in Christ,
-> no longer in Moses. *And he will judge among the nations, *in respect
-> of their error: *and he shall confute a large people, *in the first
+> no longer in Moses. *And he will judge among the nations*, in respect
+> of their error: *and he shall confute a large people*, in the first
 > instance that of the Jews and their proselytes. *And they shall break
 > down their swords into ploughshares, and their spears into
-> pruning-hooks, *that is, all the devices of injurious minds and
+> pruning-hooks*, that is, all the devices of injurious minds and
 > hostile tongues and of all malice and blasphemy, they shall convert
 > into the interests of moderation and peace. And *nation shall not take
-> up sword against nation, *the sword of discord: *neither shall they
-> learn war any more, *that is, follow up hostilities: so that here too
+> up sword against nation*, the sword of discord: *neither shall they
+> learn war any more*, that is, follow up hostilities: so that here too
 > you may learn that the Christ who was promised was not one powerful in
 > war, but a bringer of peace. Either deny that these things were
 > prophesied, now that they are plainly seen, or deny that they have
@@ -812,7 +812,7 @@ compatible with the use of the sword.
     English translation is found in *Nicene and Post-Nicene Fathers*,
     second series, volume 4, pages 64-65.
 
-[^21]: The reference by Eusebius referred to in footnote above is the
+[^21]: The reference by Eusebius referred to in footnote 6 above is the
     earliest differing opinion. However, even Eusebius claimed it was a
     fulfilled prophecy. Eusebius's use of this prophecy is so clearly
     politically motivated that it does not represent a serious challenge
