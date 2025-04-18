@@ -13,7 +13,7 @@ Audio book:
 * [MP3](http://files.xpian.info/gloria_the_real_story_of_happily_ever_after.mp3) -- audio book version in MP3 format
 * [M4A](http://files.xpian.info/gloria_the_real_story_of_happily_ever_after.m4a) -- audio book version in M4A format
 
-Text to read:
+Ebook/Text to read:
 
 * [ePub](gloria_the_real_story_of_happily_ever_after.epub) --- for most ebook readers and ebook software on cellphones and tablets
 * [MOBI](gloria_the_real_story_of_happily_ever_after.mobi) --- for Kindle ebook readers
