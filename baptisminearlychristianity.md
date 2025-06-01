@@ -45,7 +45,10 @@ for thus it is fitting for us to fulfill all righteousness." (Matthew
 3:15) Two remarkable events are recorded about Jesus's baptism. The
 first is that the Holy Spirit descended on Jesus like a dove. The second
 is that a voice from heaven identified him as God's son with whom God
-was pleased.
+was pleased. It is worth nothing that although Jesus did not have sins to turn from 
+and his was not a baptism of repentance, that he still chose to wait to be
+baptized until he was an adult. If baptism as children were what God expected
+of the children of Christian parents (as he did of circumcision for the Jews), then it seems strange that Jesus was not baptized as a child.
 
 The next explicit mention of baptism in the New Testament is Jesus's
 disciples baptizing large numbers of people, which is mentioned in John
@@ -206,10 +209,10 @@ baptism of young children in mind.
 As mentioned earlier, 1 Corinthians 1:13-17 contains a list of people
 that Paul baptized (Crispus, Gaius and the house of Stephanas). The
 context of this passage is division that was happening in Corinth. Paul
-seems to have intentionally deemphasized who was doing the baptism to
+seems to have intentionally de-emphasized who was doing the baptism to
 avoid the focus of baptism being on who performed the baptism.
 Presumably the other people in Corinth who were baptized while Paul was
-there were either baptized by a traveling companion of Paul or by one of
+there were either baptized by a travelling companion of Paul or by one of
 the newly baptized disciples in Corinth.
 
 Later in 1 Corinthians 12:13, Paul wrote this about baptism: "For in one
@@ -335,9 +338,9 @@ Testament. If somehow, this practice was left out of the New Testament,
 then we should at least be able to find some reference to it in the
 early Christian writings from an early date.
 
-## Baptism in the early christian writings outside the New Testament
+## Baptism in the Early Christian Writings Outside the New Testament
 
-That baptism of children was practiced by some, maybe even many, who
+That baptism of children was practised by some, maybe even many, who
 professed to be Christian in the third century and later is well
 established by the historical evidence[^9]. An especially interesting
 point of evidence in this question is the so-called *Apostolic
@@ -390,29 +393,37 @@ on to death itself, that He might be "the first-born from the dead, that
 in all things He might have the pre-eminence," the Prince of life,
 existing before all, and going before all.
 
-Whether Irenaeus is promoting the baptism of children or not I am not
-sure. One alternative possibility is that he is referring to a general
+Whether Irenaeus was thinking of the baptism of children when he wrote the above quote or not I am not
+sure. There is nothing explicit in the quote to refer to the baptism of children.
+One alternative possibility is that he is referring to a general
 saving of children through the work of Jesus. Another possible
 explanation of what he means is that he is referring to children who
-will eventually be baptized when they are older. Some of Irenaeus's
+will eventually be saved when they are older. Some of Irenaeus's
 other references to baptism seem to suggest that he understands baptism
 to be something received by those who have obtained an age where they
 have fallen into sin and then been able to receive the rule of
 truth[^13]. He also seems to refer to water and spirit baptism as being
 imparted to those that believed without mentioning the obvious exception
-for children[^14].
+for children[^14]. Given that Irenaeus's argument in the above excerpt centres around Jesus passing through every stage to sanctify every stage, it is interesting that Irenaeus makes
+no comment on Jesus's decision to not be baptized until he was an adult. Had Irenaeus 
+been thinking of the baptism of children as a normal Christian practice, it seems 
+strange that he would have not commented on this.
 
 Prior to Irenaeus, *The Shepherd of Hermas*, *The Letter of Barnabas*,
-Justin Martyr's *First Apology* and his *Dialogue with Trypho* all
+Justin's *First Apology* and his *Dialogue with Trypho* all
 discuss baptism. Not only do they not mention baptism of children but
 they describe baptism in a way that seems to suggest they are not
-considering baptism as including children. Hermas says to the heavenly
+considering baptism as including children.
+
+In *The Shepherd of Hermas*, Hermas says to the heavenly
 messenger of repentance, "I heard, sir, some teachers maintain that
 there is no other repentance than that which takes place, when we
 descended into the water and received remission of our former
 sins."[^15] It is hard to imagine that Hermas has in mind here the
 baptism of children who make no repentance and have no former sins to be
-freed from. Along a similar line, *The Letter of Barnabas* says in
+freed from.
+
+Along a similar line, *The Letter of Barnabas* says in
 chapter 11 (a chapter dealing with baptism), "Blessed are those who have
 set their hope on the cross and gone down into the water" and "we go
 down into the water full of sins and pollution, and we come up bringing
@@ -422,7 +433,7 @@ with their hope set on the cross nor that they are full of sins and
 pollution. The context of these is clearly referring to someone
 responding in faith to God, something a young child can not do.
 
-Justin Martyr's *First Apology*, has a detailed description of baptism
+Justin's *First Apology*, has a detailed description of baptism
 for a non-Christian audience. His description is clearly of those old enough to understand and choose:
 
 > How we dedicated ourselves to God when we were made new through Christ I
@@ -464,7 +475,7 @@ of the Holy Spirit, who through the prophets foretold everything about
 Jesus.[^16]
 
 Justin's description would be very strange if he had been aware of a
-normal practice of baptising children. His contrast of our first birth
+normal practice of baptizing children. His contrast of our first birth
 of necessity (that is, not of our choice) and our second birth of free
 choice and knowledge makes this especially clear.
 
@@ -652,7 +663,7 @@ pattern of baptism being associated with repentance, this too would cast
 question on my argument. However, the facts we have are that we have no
 writing before the third century promoting or even explicitly mentioning
 baptism of children. When we consider that these writings were mostly
-preserved by the Roman state church[^25], which practiced baptism of
+preserved by the Roman state church[^25], which practised baptism of
 children, this is a serious problem to overcome for those who want to
 promote the baptism of children as the historic Christian practice.
 
@@ -746,11 +757,11 @@ needing repentance.
 
 [^17]: *First Apology*, chapter 65 & 66.
 
-[^18]: *Dialgoue with Trypho*, chapter 14.
+[^18]: *Dialogue with Trypho*, chapter 14.
 
-[^19]: *Dialgoue with Trypho*, chapter 86.
+[^19]: *Dialogue with Trypho*, chapter 86.
 
-[^20]: *Dialgoue with Trypho*, chapter 138.
+[^20]: *Dialogue with Trypho*, chapter 138.
 
 [^21]: *Apology to Autolycus*, book 2, chapter 16.
 
@@ -764,7 +775,7 @@ needing repentance.
     215-222 or in *Clement of Alexandria: Christ the Educator*, volume
     23 of *The Fathers of the Church* series, pages 24-49.
 
-[^25]: Since the Roman state church was practicing baptism of children,
+[^25]: Since the Roman state church was practising baptism of children,
     they would have no motivation to intentionally corrupt or hide
     writings that supported this practice.
 
