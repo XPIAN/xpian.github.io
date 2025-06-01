@@ -47,7 +47,7 @@ first is that the Holy Spirit descended on Jesus like a dove. The second
 is that a voice from heaven identified him as God's son with whom God
 was pleased. It is worth nothing that although Jesus did not have sins to turn from 
 and his was not a baptism of repentance, that he still chose to wait to be
-baptized until he was an adult. If baptism as children were what God expected
+baptized until he was an adult. If baptism as children was what God expected
 of the children of Christian parents (as he did of circumcision for the Jews), then it seems strange that Jesus was not baptized as a child.
 
 The next explicit mention of baptism in the New Testament is Jesus's
