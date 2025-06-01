@@ -14,8 +14,8 @@ does not seem that the focus of the New Testament references to baptism
 are on the mode but on the purpose and effect of baptism.
 
 I do not like the word baptize, as it is just a transliteration of the
-Greek word *baptizo *(*βαπτίζω*) which means to dip, to immerse or to
-soak. However, I am using the word baptize in this document so as not to
+Greek word *baptizo* (*βαπτίζω*) and does not really convey the meaning of the Greek word,
+which means to dip, to immerse or to soak. However, I am using the word baptize in this document so as not to
 distract away from the focus of this document with issues related to
 mode of baptism.
 
@@ -24,9 +24,9 @@ mode of baptism.
 The first mention of baptism in the New Testament is John's baptism of
 many Jews. This is recorded in Matthew 3:1-12, Mark 1:4-8, Luke 3:1-21,
 John 1:19-31 and John 3:22-24. John was baptizing "Jerusalem and all
-Judea and all the region about the Jordan", according to Matthew and
-"all the country of Judea and all Jerusalem", according to Mark. Luke
-tells us that "all the people", including the tax collectors but
+Judea and all the region about the Jordan," according to Matthew and
+"all the country of Judea and all Jerusalem," according to Mark. Luke
+tells us that "all the people," including the tax collectors but
 excluding the Pharisees and lawyers had been baptized by him (Luke 3:21
 & 7:29). Matthew tells us that John was baptizing for repentance (3:11)
 and that the people being baptized were confessing their sins (3:6).
@@ -99,7 +99,7 @@ Philip baptized the people in Samaria, Peter and John came down and laid
 hands on them for them to receive the Holy Spirit.
 
 Shortly after this, Acts 8:36-38 records Philip's baptism of the
-Ethiopian eunuch. In verse 36, the eunuch asks whats prevents him from
+Ethiopian eunuch. In verse 36, the eunuch asks what prevents him from
 being baptized. Verse 37, which is only present in some Greek
 manuscripts, records Philip's reply: "If you believe with all your
 heart." Like the two previous examples belief is closely tied with
@@ -124,16 +124,16 @@ Jesus's) name.
 Acts 10:44-48 records of baptism of Cornelius and those with him. It
 seems that everyone who received the Holy Spirit on that occasion was
 immediately baptized. Those who received the Holy Spirit there were "all
-who heard the word." When these events are being reported later in
-Jerusalem, Acts 11:18 makes it clear that the Christians there
-understood this baptism of Cornelius and the others there to be
+who heard the word." When these events were being reported later in
+Jerusalem, Acts 11:18 makes it clear that the Christians in Jerusalem
+understood this baptism of Cornelius and the others in his house to be
 associated with "repentance that leads to life."
 
 Acts 13:24 briefly mentions that prior to Jesus, "John had proclaimed a
 baptism of repentance to all the people of Israel." Here again baptism
 and repentance are connected together.
 
-Acts 16:14-15 records the baptism of Lydia & "all her house", presumably
+Acts 16:14-15 records the baptism of Lydia and "all her house," presumably
 referring to other members of her family or others (perhaps slaves) who
 lived with her. This passage mentions that God opened Lydia's heart "to
 pay attention to what was said by Paul." This is the first of a few
@@ -148,7 +148,7 @@ they are used. For example, if we read that someone escaped from a house
 fire but that "all her house" was consumed in the fire, we might
 reasonable assume that this could include people, animals and inanimate
 objects. However, if we read that each time a woman returned to her
-house she warmly greeted "all her house", we would not assume that she
+house she warmly greeted "all her house," we would not assume that she
 was hugging her donkey or kissing her rug. In some of the previous
 passages that mention John's baptism, we are told that "Jerusalem, all
 Judea, and all the region about the Jordan" (Matthew 3) or "all the
@@ -158,7 +158,7 @@ was baptized by John because Luke 7 records that the Pharisees and the
 lawyers were not baptized by John.
 
 Acts 16:30-34 records the repentance and baptism of the Philippian
-jailer and "all his", again presumably referring to others in his family
+jailer and "all his," again presumably referring to others in his family
 or household. This happened at once after he was told "Believe in the
 Lord Jesus, and you will be saved, you and your household." This baptism
 was so immediate that it happened even before the jailer took Paul and
@@ -245,9 +245,9 @@ suggest that baptism should only be done to males, but he says that
 those who Christ has circumcised "were dead through your trespasses and
 the uncircumcision of your flesh." Clearly he does not have in mind a
 practice that was in every way parallel to the practice of circumcising
-all Israelite males, even children as Israelite children were not
+all Israelite males, even children; Israelite children were not
 circumcised because they were dead through their trespasses, nor were
-they circumcised through faith, as they on the eighth day after birth
+they circumcised through faith, as they, on the eighth day after birth,
 had no ability to have faith.
 
 In 1 Corinthians 10:2, Paul referred to what happened to the Israelites
@@ -283,7 +283,7 @@ Hebrews 6:1 lists instruction about baptisms as one of the foundational
 teachings that make up the elementary doctrine of Christ.
 
 The final passage in the New Testament about baptism is 1 Peter 3:18-22.
-In this passage, were the context is suffering for doing good, Peter
+In this passage, where the context is suffering for doing good, Peter
 teaches that just as Noah was saved through water, so disciples are now
 saved through baptism[^7]. Those who teach that baptism has no part in
 salvation have to ignore the clear teaching of this passage. "Baptism
@@ -341,11 +341,11 @@ That baptism of children was practiced by some, maybe even many, who
 professed to be Christian in the third century and later is well
 established by the historical evidence[^9]. An especially interesting
 point of evidence in this question is the so-called *Apostolic
-Tradition* (also called *Egyptian Church Order*). This anonymous writing
+Tradition* (also called the *Egyptian Church Order*). This anonymous writing
 is sometimes attributed to Hippolytus of Rome and suggested dates range
 from the early third century to the late forth century. This writing is
 sometimes quoted in defence of baptizing children because it explicitly
-mentions this practice. As well, if it was complied by Hippolytus (which
+mentions this practice. As well, if it was complied by Hippolytus of Rome (which
 it very likely was not), it would probably be the earliest surviving
 writing promoting children being baptized[^10]. However, the very
 detailed description of baptism that it gives requires mixed-gender,
@@ -366,7 +366,7 @@ children in his work *Against Heresies[^12]*. In the context of arguing
 that Jesus lived to be about 50 years old (as opposed to the Gnostic
 idea that he died at exactly 30 years of age), Irenaeus writes this:
 
-> 'Being thirty years old when He came to be baptized, and then possessing
+> Being thirty years old when He came to be baptized, and then possessing
 the full age of a Master, He came to Jerusalem, so that He might be
 properly acknowledged by all as a Master. For He did not seem one thing
 while He was another, as those affirm who describe Him as being man only
@@ -388,7 +388,7 @@ truth, but also as regards age, sanctifying at the same time the aged
 also, and becoming an example to them likewise. Then, at last, He came
 on to death itself, that He might be "the first-born from the dead, that
 in all things He might have the pre-eminence," the Prince of life,
-existing before all, and going before all.'
+existing before all, and going before all.
 
 Whether Irenaeus is promoting the baptism of children or not I am not
 sure. One alternative possibility is that he is referring to a general
@@ -423,9 +423,7 @@ pollution. The context of these is clearly referring to someone
 responding in faith to God, something a young child can not do.
 
 Justin Martyr's *First Apology*, has a detailed description of baptism
-for a non-Christian audience. His description is so clearly of those old
-enough to understand and choose that I'm going to quote the whole
-chapter:
+for a non-Christian audience. His description is clearly of those old enough to understand and choose:
 
 > How we dedicated ourselves to God when we were made new through Christ I
 will explain, since it might seem to be unfair if I left this out from
@@ -508,19 +506,19 @@ were not present for this meeting or that Justin is not so slavishly
 literal as those who try to argue that baptizing "whole households" must
 necessarily mean the children too.
 
-Justin tells Trypho the Jew that, "By reason, therefore, of this laver
-of repentance and knowledge of God, which has been ordained on account
-of the transgression of God's people, as Isaiah cries, we have believed,
-and testify that that very baptism which he announced is alone able to
-purify those who have repented; and this is the water of life."[^18]
+Justin tells Trypho the Jew that, "Thus it is that we have believed through the baptism of
+repentance and knowledge of God, which was instituted for
+the sins of the people of God, as Isaias testifies, and we know
+that that same baptism which he announced, and which alone
+can purify penitents, is the water of life."[^18]
 Again we see here the strong connection between repentance, baptism and
 cleaning of sin. Justin does not seem to be considering that people too
 young to repent could be baptized.
 
 Later, Justin tells Trypho that "our Christ, by being crucified on the
 tree, and by purifying \[us\] with water, has redeemed us, though
-plunged in the direst offences which we have committed."[^19] This again
-seems to presume those old enough to plunge themselves into the direst
+plunged in the direst offences which we have committed."[^19] This quote
+seems to presume that those being baptized were old enough to have plunged themselves into the direst
 offences. He also says the following in the same work: "the whole earth,
 as the Scripture says, was inundated, and the water rose in height
 fifteen cubits above all the mountains: so that it is evident this was
@@ -561,19 +559,21 @@ these points" seems to assume the person being baptized is old enough to
 be instructed.
 
 Theophilus of Antioch, writing a defence of Christianity to a friend
-named Autolycus, describes baptism this way: "Moreover, the things
-proceeding from the waters were blessed by God, that this also might be
-a sign of men's being destined to receive repentance and remission of
-sins, through the water and laver of regeneration,---as many as come to
-the truth, and are born again, and receive blessing from God."[^21]
+named Autolycus, describes baptism this way: "Furthermore, those created from the waters were
+blessed by God so that this might serve as a pattern of men’s future
+reception of repentance and remission of sins through water and
+a bath of regeneration, in the case of all who approach the
+truth and are reborn and receive a blessing from God."[^21]
 Theophilus seems to follow the frequent pattern we have seen up to this
 point of connecting baptism, repentance and freedom from sin.
 
 Clement of Alexandria's writings contain two relevant references to
-baptism. The first is from T*he Exhortation to the Greeks*[^22]:
-"'Become righteous,' says the Lord. You that thirst, come to the water;
-and you that have no money, come, and buy and drink without money. He
-invites to the laver, to salvation, to illumination." Although this
+baptism. The first is from *The Exhortation to the Greeks*[^22]:
+"'Become righteous,' says the Lord. 'You
+that are thirsty, come to the water; and as many 
+as have no money, go and buy and drink without 
+money.' It is to the font, to salvation, to enlightenment that He invites us."
+Although this
 reference is more subtle than some of the others, it still connects
 baptism with a desire to change.
 
@@ -681,8 +681,8 @@ important as baptism could be twisted by many people by the third
 century.
 
 If Christians had been normally baptizing children from the beginning,
-these baptism would very possible have represented the majority of the
-baptisms in the first and second centuries. I find it unbelievable that
+these baptisms would likely have represented the majority of the
+baptisms in the first and second centuries[^26]. I find it unbelievable that
 when it comes to something as important as baptism that we would find no
 record of such a thing for almost two centuries after Jesus, given all
 the writings we have from that era. It is a much more reasonable
@@ -702,7 +702,7 @@ needing repentance.
 
 [^4]: See Terullian's *Against Marcion*, book 5, chapter 10.
 
-[^5]: See, for example, Justin's First Apology, chapter 61& 66;
+[^5]: See, for example, Justin's *First Apology*, chapter 61 & 66;
     Irenaeus's *Against Heresies*, book 1, chapter 21; book 3, chapter
     17; book 5, chapter 15; Theophilus of Antioch's *Apology to
     Autolycus*, book 2, chapter 16; Clement's, *The Tutor (*also called
@@ -725,8 +725,8 @@ needing repentance.
 [^9]: See for example, Origen's *Homilies on Leviticus* 8:3, Origen's
     *Commentaries on Romans* 5:9 and Cyprian's *Letters* 64.
 
-[^10]: Tertullian's *On Baptism*, chapter 17 mentions children being
-    baptised but seems to argue against it as an unwise and unnecessary
+[^10]: Tertullian's *On Baptism*, chapter 18 mentions children being
+    baptized but seems to argue against it as an unwise and unnecessary
     practice. This passage, written around the beginning of the third
     century is the earliest explicit reference to baptizing children
     that I am aware of.
@@ -738,9 +738,9 @@ needing repentance.
 [^13]: See *Against Heresies*, book 1, chapter 9 & book 5, chapter 15.
 
 [^14]: See *The Demonstration of the Apostolic Preaching*, chapters
-    41&42.
+    41 & 42.
 
-[^15]: The Shepherd of Hermas, forth commandment,
+[^15]: *The Shepherd of Hermas*, forth commandment.
 
 [^16]: Justin's *First Apology*, chapter 61.
 
@@ -755,10 +755,10 @@ needing repentance.
 [^21]: *Apology to Autolycus*, book 2, chapter 16.
 
 [^22]: Also known by the name *Exhortation to the Heathen* or by its
-    Greek name *Protrepticus.*
+    Greek name *Protrepticus.* This quote is from chapter 10 of that work.
 
-[^23]: Also known by the names The Instructor, The Educator or its Greek
-    name Paedagogus.
+[^23]: Also known by the names *The Instructor*, *The Educator* or its Greek
+    name *Paedagogus*.
 
 [^24]: This can be read in *The Ante-Nicene Fathers*, book 2, pages
     215-222 or in *Clement of Alexandria: Christ the Educator*, volume
@@ -767,3 +767,5 @@ needing repentance.
 [^25]: Since the Roman state church was practicing baptism of children,
     they would have no motivation to intentionally corrupt or hide
     writings that supported this practice.
+
+[^26]: If families who became Christian normally baptized their children when they were baptized, and most families had more children than adults (as would normally be the case) and if Christian parents normally baptized their children, then baptisms of children would outnumber the baptisms of adults, probably by a large number.
