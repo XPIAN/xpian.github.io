@@ -2,9 +2,9 @@
 title: What Jesus taught about divorce and remarriage
 ---
 
-Published: 2025-02-17
-
 # What Jesus taught about divorce and remarriage
+
+Published: 2025-02-17
 
 ## Some introductory comments:
 
