@@ -779,4 +779,4 @@ needing repentance.
     they would have no motivation to intentionally corrupt or hide
     writings that supported this practice.
 
-[^26]: If families who became Christian normally baptized their children when they were baptized, and most families had more children than adults (as would normally be the case) and if Christian parents normally baptized their children, then baptisms of children would outnumber the baptisms of adults, probably by a large number.
+[^26]: If families who became Christian normally baptized their children when they were baptized, and most families had more children than adults (as would normally be the case) and if Christian parents normally baptized their children when they were born, then baptisms of children would outnumber the baptisms of adults, probably by a large number.
