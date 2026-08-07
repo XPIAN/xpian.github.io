@@ -744,7 +744,7 @@ needing repentance.
 
 [^11]: See *The Apostolic Traditions*, chapter 21.
 
-[^12]: See Against Heresies, book 2, chapter 22.
+[^12]: See *Against Heresies*, book 2, chapter 22.
 
 [^13]: See *Against Heresies*, book 1, chapter 9 & book 5, chapter 15.
 
